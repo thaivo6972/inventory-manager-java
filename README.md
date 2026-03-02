@@ -34,6 +34,7 @@ This project demonstrates object-oriented programming, data structures, and inpu
 - Using arrays / ArrayLists to manage data
 - Applying OOP principles in Java
 - Handling user input and validation
+
 This will be VERY USEFUL in the future
 
 ## Author
